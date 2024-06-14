@@ -1,0 +1,6 @@
+Bundle-Name: layout-seo-web-fragment
+Bundle-SymbolicName: com.liferay.layout.seo.web.fragment
+Bundle-Version: 1.0.0
+Fragment-Host: com.liferay.layout.seo.web
+Export-Package: com.liferay.layout.seo.web.internal.configuration,\
+com.liferay.layout.seo.web.internal.util
